@@ -1,0 +1,18 @@
+* My Emacs Config
+
+** Package Manager
+
+- show melpa
+- set up melpa
+
+** Install some packages
+- installed use-package
+- installed try
+- installed which-key
+
+
+* Org-mode
+
+- review init.el
+- set up README.org
+
