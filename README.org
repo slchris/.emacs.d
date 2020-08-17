@@ -1,3 +1,4 @@
+#+STARTUP: showall hidestars
 * My Emacs Config
 
 ** Package Manager
@@ -15,4 +16,15 @@
 
 - review init.el
 - set up README.org
+
+
+** code block
+
+
+#+BEGIN_SRC elisp
+(+ 1 2)
+#+END_SRC
+
+
+we can use C-c e run this block code or C-c c give you results on the same  window run this block.
 
