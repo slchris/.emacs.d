@@ -1,4 +1,0 @@
-* My init org
-#+BEGIN_SRC elisp
-(+ 1 2)
-#+END_SRC
